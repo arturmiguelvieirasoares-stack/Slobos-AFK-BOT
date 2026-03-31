@@ -39,7 +39,7 @@
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 20000,
-    "periodic-rejoin": {
+    "periodic-rejoin": true
       "enabled": true,
       "min-interval": 20,
       "max-interval": 60
@@ -62,8 +62,8 @@
     }
   },
   "modules": {
-    "avoidMobs": true,
-    "combat": true,
+    "avoidMobs": false,
+    "combat": false,
     "beds": true,
     "chat": true,
     "console-commands": true
