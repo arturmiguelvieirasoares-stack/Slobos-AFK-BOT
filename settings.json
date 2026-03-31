@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "BOT FDP",
   "bot-account": {
-    "username": "AFKBOT",
+    "username": "BOTFDP",
     "password": "",
     "type": "offline"
   },
@@ -30,15 +30,13 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        to dando o ku AFK nessa porra
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 20000,
+    "auto-reconnect-delay": 0,
+    "max-reconnect-delay": 0,
     "periodic-rejoin": true
       "enabled": true,
       "min-interval": 20,
