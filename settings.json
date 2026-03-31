@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "serverparafelicidade.aternos.me:55790",
-    "port": 29195,
+    "ip": "serverparafelicidade.aternos.me",
+    "port": 55790,
     "version": "1.21.1"
   },
   "position": {
