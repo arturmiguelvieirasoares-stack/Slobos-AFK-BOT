@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "BOTFDP",
     "password": "",
-    "type": "onlinne"
+    "type": "offline"
   },
   "server": {
     "ip": "serverparafelicidade.aternos.me",
