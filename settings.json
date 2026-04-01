@@ -1,14 +1,14 @@
 {
-  "name": "BOT FDP",
+  "name": "BOTAFK ",
   "bot-account": {
-    "username": "BOTFDP",
+    "username": "BOTAFK",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "serverparafelicidade.aternos.me",
-    "port": 55790,
-    "version": "1.21.11"
+    "ip": "serverdopao.aternos.me",
+    "port": 27737,
+    "version": "1.21.10"
   },
   "position": {
     "enabled": true,
