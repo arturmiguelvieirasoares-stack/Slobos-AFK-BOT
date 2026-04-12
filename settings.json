@@ -41,7 +41,6 @@
       "min-interval": 20,
       "max-interval": 60
     }
-  },
   "movement": {
     "enabled": true,
     "circle-walk": {
